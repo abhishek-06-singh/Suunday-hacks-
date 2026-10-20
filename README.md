@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="LinkedIn post 1080×1080@1x (2)" src="https://github.com/user-attachments/assets/22d79886-cd65-407b-abc5-e5ba821faa40" />
 # Suunday-hacks- ☁️
 
 Tiny scripts for a cleaner, prettier setup. Built on lazy Sundays.
